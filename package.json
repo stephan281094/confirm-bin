@@ -1,6 +1,6 @@
 {
   "name": "confirm-bin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "bin/confirm.js",
   "repository": "git@github.com:stephan281094/confirm-bin.git",
   "author": "Stephan de Vries <stephan281094@gmail.com>",
