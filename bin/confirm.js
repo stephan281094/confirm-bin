@@ -12,5 +12,6 @@ if (!question) throw Error('No question supplied')
 rl.question(`${question} Y/n `, answer => {
   const confirmed = /^(y(es)?|true)$/i.test(String(answer).trim())
 
+  rl.close()
   process.exit(confirmed ? 0 : 1)
 })
