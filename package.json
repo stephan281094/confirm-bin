@@ -1,0 +1,11 @@
+{
+  "name": "confirm-bin",
+  "version": "0.1.0",
+  "main": "bin/confirm.js",
+  "repository": "git@github.com:stephan281094/confirm-bin.git",
+  "author": "Stephan de Vries <stephan281094@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "confirm": "./bin/confirm.js"
+  }
+}
